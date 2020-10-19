@@ -1,2 +1,2 @@
 # functionsJava
-put your functions in java here
+Put your functions in java here
